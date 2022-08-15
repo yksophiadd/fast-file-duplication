@@ -1,4 +1,4 @@
-#Fast-File-Duplication
+# Fast-File-Duplication
 This is a program for operating systems class
 In this program, we duplicate a huge file (1GB) on tmpfs, a RAM-based file system, to focus on the OS-level overhead rather than the storage latency
 
